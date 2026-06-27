@@ -4,9 +4,9 @@
 
 ## Features
 
-. Content-based recommendations
-. Uses CountVectorizer
-. Calculates cosine similarity
-. Recommends similar movies
+- Content-based recommendations
+- Uses CountVectorizer
+- Calculates cosine similarity
+- Recommends similar movies
 
 
